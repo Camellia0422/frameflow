@@ -1,0 +1,6 @@
+{
+  "name": "FrameFlow: 视频抽帧神器",
+  "description": "从任何视频中提取并合成 24 帧精美画面，支持单图导出、打包下载或生成高画质索引网格图。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
